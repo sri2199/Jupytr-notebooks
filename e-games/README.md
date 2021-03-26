@@ -1,4 +1,4 @@
 
-## Jupytr Notebooks for my analytics on e-games and sales data's
+## Jupytr Notebooks for my analytics on e-games and sales dataas
 
 
