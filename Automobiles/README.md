@@ -1,2 +1,2 @@
 
-## Jupytr Notebooks for my analytics on Automobiles
+## Jupytr Notebooks for my analytics on Automobile
